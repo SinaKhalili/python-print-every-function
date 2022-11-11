@@ -1,6 +1,8 @@
 # python-print-every-function
 Take a file or folder of files and add a print log of the function name and arguments to every function. For my fellow print debuggers.
 
+If you're looking for actual sophisticated tracing, look at the various [SO answers](https://stackoverflow.com/questions/8315389/how-do-i-print-functions-as-they-are-called) and the stdlib's [trace module](https://docs.python.org/3/library/trace.html). This is just a quick n dirty.
+
 ## Usage
 
 First grab the `print_every_function.py` file. 
